@@ -1,6 +1,6 @@
 # Insurance Policy System
 
-This is a simple Python program that shows how an insurance system works using sci-fi characters.
+This is a Python program that shows how an insurance system works using sci-fi characters.
 
 ## What It Does
 
