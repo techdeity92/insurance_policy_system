@@ -1,11 +1,11 @@
 # Insurance Policy System
 
-This is a Python program that shows how an insurance system works using sci-fi characters.
+This is a Python program that shows how an insurance system works.
 
 ## What It Does
 
 - Creates space insurance products
-- Registers policyholders like Commander Spock and Princess Leia
+- Registers policyholders
 - Handles payments and shows if they were paid
 
 ## Files
